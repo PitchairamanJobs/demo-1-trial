@@ -352,3 +352,96 @@ git log
 git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
 git push orgin
 git remote show orgin
+ls
+git log
+git remote --verbose
+git push orgin
+ls -a
+rm -rf trial.py
+ls -a
+ls
+git remove commit "First commit"
+git reset HEAD~1
+git status
+git log
+git reset HEAD~1
+git log
+git reset HEAD~1
+git log
+git reset HEAD~1
+git log
+touch first.py
+git add .
+git status
+git branch
+git commit -m "This is my First Project"
+git log
+git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote set-url orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote show orgin
+git branch
+git push -u orgin main
+git branch
+git push -u orgin main
+ls -a
+git status
+touch secondy.py
+git add .
+git status
+git log
+git commit -m "This is my Second Project"
+git log
+git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote set-url orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote show orgin
+git branch
+git push -u orgin main
+git push
+git push -u orgin main
+git branch test
+git branch
+git checkout test
+git branch
+touch thrid.py
+git add .
+git commit -m "This is my thrid file"
+git status
+git log
+git push -u orgin test
+ls
+git fetch
+ls
+git merge
+ls
+git fetch
+git merge
+ls
+git fetch
+git merge
+git pull
+ls
+git branch
+git checkout main
+git branch
+git fetch
+git merge
+ls
+git pull
+git version
+git init
+ls
+rm -rf first.py second.py
+ls
+ls-a
+ls -a
+touch trial.py
+git add .
+git status
+git log
+git commit -m "sucessful output"
+git log
+git branch
+ls -a
+git push orgin
+git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote show orgin
