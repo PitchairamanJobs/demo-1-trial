@@ -1,2 +1,3 @@
 import os
-define (Print "This is my trial project")
+define (Print "This is example and trial of git revert" )
+
