@@ -445,3 +445,81 @@ ls -a
 git push orgin
 git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
 git remote show orgin
+ls
+git clean -f
+ls
+touch thrid.py
+git add .
+git status
+git clean -f
+ls
+rm -rf thrid.py
+ls
+vi thrid.py
+git clean -f
+ls
+rm -rf thrid.py
+ls
+vi thrid.py
+cat thrid.py
+rm -rf thrid.py
+ls
+vi thrid.py
+cat thrid.py
+git status
+git clean -f
+ls
+cat thrid.py
+git log
+git add .
+git commit -m "This is first edit file"
+git log
+git diff
+git diff thrid.py
+git log --oneline
+cat thrid.py
+git revert 2e2de7e 
+cat thrid.py
+git log --oneline
+cat thrid.py
+git revert 44b4d26
+cat thgrid.py
+cat thrid.py
+git log --oneline
+git reset 6453e3d
+git status
+cat thrid.py
+ls
+rm -rf thrid.py
+ls
+git log --oneline
+git remove branch
+git reset 6453e3d 
+git clean -f
+git log --oneline
+cat thrid.py
+vi thrid.py
+git add .
+git commit -m "example git revert"
+git status
+git log --oneline
+git revert aa15f4a 
+git log --oneline
+cat thrid.py
+git reset 8bd73da 
+git status
+cat first.py
+cat thrid.py
+vi fifth.py
+cat fifth.py
+vi fifth.py
+ls
+git add .
+git stash .
+git stash
+ls
+cat fifth.py
+git stash list
+git stash pop
+ls
+cat fifth.py
