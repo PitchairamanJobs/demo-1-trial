@@ -352,3 +352,135 @@ git log
 git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
 git push orgin
 git remote show orgin
+git log
+git push -u orgin main
+vi app.py
+cat app.py
+vi.app.py
+vi app.py
+cat app.py
+git push -u orgin main
+git add .
+git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote set-url orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git push orgin
+cat app.py
+ls
+git fetch
+ls
+git merge
+git pull
+ls
+cat app.py
+git stash .
+ls
+cat trial.py
+git bfetch
+git fetch
+git merge
+git stash app.py
+rf -rm app.py
+rm -rf app.py
+ls
+git fetch
+git merge
+cat app.py
+git fetch
+git merge
+ls -a
+git pull
+cat app.py
+touch app.py
+git add .
+git stash
+ls
+git stash list
+git log --oneline
+git status
+git log
+git branch test
+git checkout test
+git log
+ls
+git fetch
+git merge
+ls
+cat practise1.py
+git pull
+git diff
+vi example.txt
+git add .
+git status
+vi example.txt
+git status
+git diff
+git diff .
+apt update
+apt get
+apt update
+java --version
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+sudo apt update
+sudo apt install jenkins
+service
+systemctl
+sudo systemctl status jenkins
+sudo ufw allow 8080
+sudo ufw status
+ifconfig
+sudo ufw allow OpenSSH
+sudo ufw enable
+sudo ufw status
+ifconfig
+sudo systemctl status jenkins
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+sudo apt update
+sudo apt install jenkins
+ubuntu version
+version
+ubuntu
+git version
+touch app.py
+git status
+git clean -f
+ls -a
+ls
+touch app.py
+git add .
+git status
+git restore --staged app.py
+ls
+git status
+git add .
+git status
+git commit -m "This is my Intial Trial"
+git status
+git log
+git log --oneline
+git remove 8bd73da 
+git remote remove 8bd73da 
+ls -a
+rm -rf first.py 
+rm -rf second.py 
+rm -rf thrid.py 
+git log --oneline
+git --help
+git branch
+git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote show-url orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote show orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git push -u orgin master
+git push -u orgin main
+sudo su
+sudo apt-key add
+sudo su
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+apt key explore
+apt key
+sudo su
+apt get
+apt update
+sudo su
