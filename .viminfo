@@ -21,7 +21,7 @@ $Pitchairaman
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1675510476,,"wq"
+|2,0,1675513204,,"wq"
 :qa
 |2,0,1675061435,,"qa"
 :%s/raman/Pitchairaman/g
@@ -57,34 +57,48 @@ $Pitchairaman
 |3,1,36,0,1,0,1674805818,"]"
 
 # File marks:
-'0  1  345  ~/raman2.txt
-|4,48,1,345,1675510476,"~/raman2.txt"
-'1  1  0  ~/demo1.txt
-|4,49,1,0,1675509913,"~/demo1.txt"
-'2  4  25  ~/example.txt
-|4,50,4,25,1675358449,"~/example.txt"
-'3  2  29  ~/example.txt
-|4,51,2,29,1675358278,"~/example.txt"
+'0  1  346  ~/raman2.txt
+|4,48,1,346,1675513204,"~/raman2.txt"
+'1  1  345  ~/raman2.txt
+|4,49,1,345,1675510476,"~/raman2.txt"
+'2  1  0  ~/demo1.txt
+|4,50,1,0,1675509913,"~/demo1.txt"
+'3  4  25  ~/example.txt
+|4,51,4,25,1675358449,"~/example.txt"
 '4  2  29  ~/example.txt
 |4,52,2,29,1675358278,"~/example.txt"
-'5  10  0  ~/demo1.txt
-|4,53,10,0,1675061533,"~/demo1.txt"
+'5  2  29  ~/example.txt
+|4,53,2,29,1675358278,"~/example.txt"
 '6  10  0  ~/demo1.txt
 |4,54,10,0,1675061533,"~/demo1.txt"
-'7  2  0  ~/demo1.txt
-|4,55,2,0,1675061435,"~/demo1.txt"
+'7  10  0  ~/demo1.txt
+|4,55,10,0,1675061533,"~/demo1.txt"
 '8  2  0  ~/demo1.txt
 |4,56,2,0,1675061435,"~/demo1.txt"
 '9  2  0  ~/demo1.txt
 |4,57,2,0,1675061435,"~/demo1.txt"
 
 # Jumplist (newest first):
+-'  1  346  ~/raman2.txt
+|4,39,1,346,1675513204,"~/raman2.txt"
 -'  1  345  ~/raman2.txt
 |4,39,1,345,1675510476,"~/raman2.txt"
 -'  1  0  ~/demo1.txt
 |4,39,1,0,1675509913,"~/demo1.txt"
 -'  1  0  ~/demo1.txt
 |4,39,1,0,1675509913,"~/demo1.txt"
+-'  1  0  ~/demo1.txt
+|4,39,1,0,1675509913,"~/demo1.txt"
+-'  1  0  ~/demo1.txt
+|4,39,1,0,1675509913,"~/demo1.txt"
+-'  4  25  ~/example.txt
+|4,39,4,25,1675358449,"~/example.txt"
+-'  4  25  ~/example.txt
+|4,39,4,25,1675358449,"~/example.txt"
+-'  4  25  ~/example.txt
+|4,39,4,25,1675358449,"~/example.txt"
+-'  4  25  ~/example.txt
+|4,39,4,25,1675358449,"~/example.txt"
 -'  4  25  ~/example.txt
 |4,39,4,25,1675358449,"~/example.txt"
 -'  4  25  ~/example.txt
@@ -101,6 +115,22 @@ $Pitchairaman
 |4,39,2,29,1675358419,"~/example.txt"
 -'  2  29  ~/example.txt
 |4,39,2,29,1675358419,"~/example.txt"
+-'  2  29  ~/example.txt
+|4,39,2,29,1675358419,"~/example.txt"
+-'  2  29  ~/example.txt
+|4,39,2,29,1675358419,"~/example.txt"
+-'  2  29  ~/example.txt
+|4,39,2,29,1675358419,"~/example.txt"
+-'  2  29  ~/example.txt
+|4,39,2,29,1675358419,"~/example.txt"
+-'  2  29  ~/example.txt
+|4,39,2,29,1675358278,"~/example.txt"
+-'  2  29  ~/example.txt
+|4,39,2,29,1675358278,"~/example.txt"
+-'  2  29  ~/example.txt
+|4,39,2,29,1675358278,"~/example.txt"
+-'  2  29  ~/example.txt
+|4,39,2,29,1675358278,"~/example.txt"
 -'  2  29  ~/example.txt
 |4,39,2,29,1675358278,"~/example.txt"
 -'  2  29  ~/example.txt
@@ -125,6 +155,22 @@ $Pitchairaman
 |4,39,1,0,1675358168,"~/example.txt"
 -'  1  0  ~/example.txt
 |4,39,1,0,1675358168,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1675358168,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1675358168,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1675358168,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1675358168,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1675358168,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1675358168,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1675358168,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1675358168,"~/example.txt"
 -'  10  0  ~/demo1.txt
 |4,39,10,0,1675061533,"~/demo1.txt"
 -'  10  0  ~/demo1.txt
@@ -145,6 +191,46 @@ $Pitchairaman
 |4,39,10,0,1675061533,"~/demo1.txt"
 -'  10  0  ~/demo1.txt
 |4,39,10,0,1675061533,"~/demo1.txt"
+-'  10  0  ~/demo1.txt
+|4,39,10,0,1675061533,"~/demo1.txt"
+-'  10  0  ~/demo1.txt
+|4,39,10,0,1675061533,"~/demo1.txt"
+-'  10  0  ~/demo1.txt
+|4,39,10,0,1675061533,"~/demo1.txt"
+-'  10  0  ~/demo1.txt
+|4,39,10,0,1675061533,"~/demo1.txt"
+-'  10  0  ~/demo1.txt
+|4,39,10,0,1675061533,"~/demo1.txt"
+-'  10  0  ~/demo1.txt
+|4,39,10,0,1675061533,"~/demo1.txt"
+-'  10  0  ~/demo1.txt
+|4,39,10,0,1675061533,"~/demo1.txt"
+-'  10  0  ~/demo1.txt
+|4,39,10,0,1675061533,"~/demo1.txt"
+-'  10  0  ~/demo1.txt
+|4,39,10,0,1675061533,"~/demo1.txt"
+-'  10  0  ~/demo1.txt
+|4,39,10,0,1675061533,"~/demo1.txt"
+-'  11  0  ~/demo1.txt
+|4,39,11,0,1675061525,"~/demo1.txt"
+-'  11  0  ~/demo1.txt
+|4,39,11,0,1675061525,"~/demo1.txt"
+-'  11  0  ~/demo1.txt
+|4,39,11,0,1675061525,"~/demo1.txt"
+-'  11  0  ~/demo1.txt
+|4,39,11,0,1675061525,"~/demo1.txt"
+-'  11  0  ~/demo1.txt
+|4,39,11,0,1675061525,"~/demo1.txt"
+-'  11  0  ~/demo1.txt
+|4,39,11,0,1675061525,"~/demo1.txt"
+-'  11  0  ~/demo1.txt
+|4,39,11,0,1675061525,"~/demo1.txt"
+-'  11  0  ~/demo1.txt
+|4,39,11,0,1675061525,"~/demo1.txt"
+-'  11  0  ~/demo1.txt
+|4,39,11,0,1675061525,"~/demo1.txt"
+-'  11  0  ~/demo1.txt
+|4,39,11,0,1675061525,"~/demo1.txt"
 -'  11  0  ~/demo1.txt
 |4,39,11,0,1675061525,"~/demo1.txt"
 -'  11  0  ~/demo1.txt
@@ -186,105 +272,19 @@ $Pitchairaman
 -'  2  0  ~/demo1.txt
 |4,39,2,0,1675061447,"~/demo1.txt"
 -'  2  0  ~/demo1.txt
-|4,39,2,0,1675061435,"~/demo1.txt"
+|4,39,2,0,1675061447,"~/demo1.txt"
 -'  2  0  ~/demo1.txt
-|4,39,2,0,1675061435,"~/demo1.txt"
+|4,39,2,0,1675061447,"~/demo1.txt"
 -'  2  0  ~/demo1.txt
-|4,39,2,0,1675061435,"~/demo1.txt"
+|4,39,2,0,1675061447,"~/demo1.txt"
 -'  2  0  ~/demo1.txt
-|4,39,2,0,1675061435,"~/demo1.txt"
--'  2  0  ~/demo1.txt
-|4,39,2,0,1675061435,"~/demo1.txt"
--'  2  0  ~/demo1.txt
-|4,39,2,0,1675061435,"~/demo1.txt"
--'  2  0  ~/demo1.txt
-|4,39,2,0,1675061435,"~/demo1.txt"
--'  2  0  ~/demo1.txt
-|4,39,2,0,1675061435,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061421,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061265,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061265,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061265,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061265,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061265,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061265,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061265,"~/demo1.txt"
--'  3  0  ~/demo1.txt
-|4,39,3,0,1675061265,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
--'  4  0  ~/demo1.txt
-|4,39,4,0,1675061226,"~/demo1.txt"
+|4,39,2,0,1675061447,"~/demo1.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/raman2.txt
-	*	1675510472	0
-	"	1	345
+	*	1675513200	0
+	"	1	346
 	^	1	346
 	.	1	345
 	+	1	345

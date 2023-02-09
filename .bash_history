@@ -484,3 +484,34 @@ sudo su
 apt get
 apt update
 sudo su
+ls
+rm -rf demo-1-trial
+cat raman2.txt
+git add .
+git log
+git remote show orgin
+git branch
+git checkout main
+git branch
+git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote set-url orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote show orgin
+git push -u orgin main
+git push --help
+git pull
+git log
+git checkout test
+git log
+git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote set-url orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote show orgin
+git push -u orgin test
+vi raman2.txt
+git add .
+git status
+git log
+git remote add orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git remote show-url orgin https://github.com/PitchairamanJobs/demo-1-trial.git
+git push -u orgin test
+ls
+sudo su
