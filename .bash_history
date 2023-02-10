@@ -515,3 +515,18 @@ git remote show-url orgin https://github.com/PitchairamanJobs/demo-1-trial.git
 git push -u orgin test
 ls
 sudo su
+ls -a
+git pull
+ls
+ls -a
+git fetch
+git merge
+ls
+git status
+git version
+git pull
+ls-a
+ls -a
+cat demo-1-trial
+java --version
+sudo su
